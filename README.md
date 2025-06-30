@@ -29,7 +29,7 @@ Al final, se genera un resultado con columnas como:
 - `Tamaño Total GB`
 - `Nombre del índice`, `Tipo de índice`, `Porcentaje de fragmentación`
 
-## 📸 Ejemplo de salida
+## Ejemplo de salida
 
 | table_name           | Cantidad de Campos | Reserved KB | Data KB | Index_size KB | Unused KB | Tamaño Total GB | Nombre del índice | Tipo de índice | Porcentaje de fragmentación |
 |----------------------|--------------------|-------------|---------|----------------|------------|------------------|--------------------|-----------------|-----------------------------|
